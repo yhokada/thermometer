@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+redis_param.yml
+line_param.yml
+rpi1.pem
